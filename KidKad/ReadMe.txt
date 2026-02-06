@@ -5,7 +5,7 @@
  ██║  ██╗██║██████╔╝██║  ██╗██║  ██║██████╔╝
  ╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
 
-ENG: The creators of Copper don't have responsability if ur PC fucks | PT: Os criadores do Copper ñ tem responsabilidade se seu PC fuder
+ENG: The creators of KidKad don't have responsability if ur PC fucks | PT: Os criadores do KidKad ñ tem responsabilidade se seu PC fuder
 
 ________________________________________________________________________________________________________________________________________________
 
@@ -21,4 +21,5 @@ ByteBeats são feitas em C#
  | ' /  _   __| || ' /   __ _   __| |
  |  <  | | / _` ||  <   / _` | / _` |
  | . \ | || (_| || . \ | (_| || (_| |
+
  |_|\_\|_| \__,_||_|\_\ \__,_| \__,_|
