@@ -5,7 +5,7 @@
  ██║  ██╗██║██████╔╝██║  ██╗██║  ██║██████╔╝
  ╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
 
-ENG: The creators of Copper don't have responsability if ur PC fucks | PT: Os criadores do Copper ñ tem responsabilidade se seu PC fuder
+ENG: The creators of KidKad don't have responsability if ur PC fucks | PT: Os criadores do KidKad ñ tem responsabilidade se seu PC fuder
 
 ________________________________________________________________________________________________________________________________________________
 
